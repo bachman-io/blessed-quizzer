@@ -1,0 +1,22 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.custom-danger {
+    background-color: #ff6633;
+    color: #fff;
+}
+
+.custom-success {
+    background-color: #008800;
+    color: #fff;
+}
+
+.slightly-lit {
+    background-color: #770000;
+}
